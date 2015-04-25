@@ -1,1 +1,10 @@
-Hi me. This is me. Remember me, your .git folder is a HIDDEN folder. A "bag of holding" for your work, if you will.
+Hi me. This is me. Remember, me, your .git folder is a HIDDEN folder. A "bag of holding" for your work, if you will.
+
+
+Also, me, did you know we could use EMOJI in Terminal?! Crazy, I know, but watch this:
+
+
+
+
+
+🎺 🌍  💦
