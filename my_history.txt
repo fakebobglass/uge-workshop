@@ -1,0 +1,114 @@
+    1  sudo rm /Library/Preferences/Parallels/licenses.xml
+    2  sudo rm /Library/Preferences/Parallels/licenses.xml
+    3  sudo rm /Library/Preferences/Parallels/licenses.xml
+    4  >defaults write com.apple.systempreferences TMShowUnsupportedNetworkVolumes 1
+    5  defaults write com.apple.dashboard mcx-disabled -boolean YES;killall Dock
+    6  /adt/sdk/platform-tools/adb ; exit;
+    7  sudo rm /Library/Preferences/Parallels/licenses.xml
+    8  sudo rm /Library/Preferences/Parallels/licenses.xml
+    9  sudo rm /Library/Preferences/Parallels/licenses.xml
+   10  sudo rm /Library/Preferences/Parallels/licenses.xml
+   11  sudo rm /Library/Preferences/Parallels/licenses.xml
+   12  killall finder
+   13  kill finder
+   14  ls -l
+   15  jobs
+   16  jobs -a
+   17  jobs -x
+   18  top
+   19  top
+   20  sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl 
+   21  sublime.
+   22  subl
+   23  ls -l
+   24  clear
+   25  pwd
+   26  cd movies
+   27  cd /movies
+   28  cd /User/paruyu/Documents
+   29  ~
+   30  cd ~
+   31  ps
+   32  ls
+   33  clear
+   34  pwd
+   35  cd /
+   36  cd ~
+   37  cd /
+   38  ls
+   39  ls -t
+   40  la -l
+   41  ls -l
+   42  clear 
+   43  ls -lta
+   44  clear
+   45  ls -rla
+   46  ls- r
+   47  ls -r
+   48  ls -rt
+   49  ls -a
+   50  ls _A
+   51  ls -A
+   52  man ls
+   53  clear
+   54  man man
+   55  man ls
+   56  ls -d
+   57  ls -a
+   58  ls -A
+   59  man git
+   60  cd ~
+   61  cd /temp
+   62  cd /
+   63  cd temp
+   64  cd /temp
+   65  mkdir temp
+   66  sudo mkdir temp
+   67  cd /temp/
+   68  mkdir my\ folder
+   69  sudo mkdir my\folder
+   70  cd my\folder
+   71  sudo mv my\folder my\ folder
+   72  ..
+   73  cd ..
+   74  rm myfolder
+   75  rm -r myfolder
+   76  sudo mkdir my\ folder
+   77  cd my folder
+   78  cd my\ folder
+   79  cd ~
+   80  clear
+   81  cd documents
+   82  cd Documents
+   83  clear
+   84  cd /
+   85  ls -l
+   86  nano index.html 
+   87  cd users
+   88  ls -l
+   89  cd shared
+   90  ls -l
+   91  cd Parallels/
+   92  ls -l
+   93  cd ..
+   94  cd..
+   95  cd ..
+   96  cd /Shared/Parallels/Backups
+   97  ls ~
+   98  cd ~/Music
+   99  ls -l
+  100  ls -l ~/Movies
+  101  cd ~/Movies/the\ Ben\ Stiller\ Show
+  102  ls
+  103  vlc
+  104  clear
+  105  cd ~
+  106  clear
+  107  history
+  108  history 10
+  109  history | less
+  110  history | nano
+  111  history | less
+  112  man less
+  113  ls 
+  114  history > my_history.txt
